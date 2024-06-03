@@ -1,0 +1,23 @@
+{
+    "starting_component":{
+        "values": [7]
+    },
+    "similarity_function": {
+        "values": ["fasttext"]
+        },
+    "clustering_algo": {
+        "values": ["gt"]
+        },
+    "num_sampling_steps": {
+        "values": [50]
+        },
+    "sample_method":{
+        "values": ["centered"]
+    },
+    "hac_linkage_function":{
+        "values": ["single"]
+    },
+    "assignment":{
+        "values": ["linear regression"]
+    }
+}

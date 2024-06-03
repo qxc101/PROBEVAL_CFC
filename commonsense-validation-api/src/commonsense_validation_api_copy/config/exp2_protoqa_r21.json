@@ -1,0 +1,23 @@
+{
+    "starting_component":{
+        "values": [0.4123432897452371]
+    },
+    "similarity_function": {
+        "values": ["wordnet"]
+        },
+    "clustering_algo": {
+        "values": ["hac"]
+        },
+    "num_sampling_steps": {
+        "values": [50]
+        },
+    "sample_method":{
+        "values": ["centered"]
+    },
+    "hac_linkage_function":{
+        "values": ["centroid"]
+    },
+    "assignment":{
+        "values": ["cosine"]
+    }
+}

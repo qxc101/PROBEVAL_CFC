@@ -1,0 +1,27 @@
+name: cfc-sweep-test
+project: CFC
+method: grid
+metric:
+  goal: minimize
+  name: KL_score
+parameters:
+  # starting_component:
+  #   min: 0.2
+  #   max: 0.5
+  similarity_function:
+    values: ["fasttext"]
+  clustering_algo:
+    values: ["hac"]
+  num_sampling_steps:
+        values: [10]
+    # values: [10, 20, 30, 40, 50]
+  hac_linkage_function:
+    values: ["single"]
+    # values: ["single", "complete", "average", "weighted", "centroid", "median", "ward"]
+  sample_method:
+    values: ["diverse"]
+    # values: ["diverse", "centered", "vanila"]
+  assignment:
+    values: ["linear regression"]
+    # values: ["cosine", "linear regression"]
+  # Add other hyperparameters similarly

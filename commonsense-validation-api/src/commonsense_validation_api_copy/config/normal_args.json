@@ -1,0 +1,18 @@
+{
+    "target": "/home/qic69/Desktop/CFC/CFC_evaluator_data/Evaluator_Input/all_dev_targets.jsonl",
+    "prediction": "/home/qic69/Desktop/CFC/CFC_evaluator_data/more_dev_gpt2_predictions/0707modelft_grad32lr1e-06sample200_temp0.7_annotated_prediction.json",
+    "embedding": "/home/qic69/Desktop/CFC/CFC_evaluator_data/more_dev_gpt2_predictions/0707modelft_grad32lr1e-06sample200_temp0.7_embeddings_100.jsonl",
+    "similarity_function": "wordnet",
+    "clustering_algo": "gmeans",
+    "num_sampling_steps": 50,
+    "save_files": false,
+    "starting_component": 4.0,
+    "debug": false,
+    "hac_linkage_function": "single",
+    "sample_method": "wrong_score",
+    "assignment": "cosine",
+    "tune_parameters": false,
+    "wandb_config": "./config/exp1_r1.json",
+    "do_protoQA": true,
+    "log": true
+}

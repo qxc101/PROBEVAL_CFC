@@ -1,0 +1,134 @@
+missing_answer - gt - wordnet - cosine - 7.0, 0.8702493796989608, 0.753862747454545
+wrong_score - gt - wordnet - cosine - 7.0, 0.34992746965640514, -0.06065870242305463
+wrong_ranking - gt - wordnet - cosine - 7.0, 0.8256648662719777, 0.313127964961016
+wrong_score - gmeans - wordnet - cosine - 4.0, 0.1798535887196759, 0.023830712118704824
+wrong_ranking - gmeans - wordnet - cosine - 4.0, 0.7427022638163095, 0.5246601826808572
+missing_answer - xmeans - wordnet - cosine - 14.0, 0.7063318896422303, 0.7055056239016442
+wrong_score - xmeans - wordnet - cosine - 14.0, 0.19146365755851116, 0.04309840255565242
+wrong_ranking - xmeans - wordnet - cosine - 14.0, 0.7189167987387433, 0.437487882577912
+missing_answer - hac - wordnet - cosine - 0.4123, 0.6579231675392736, 0.6572593520241695
+wrong_score - hac - wordnet - cosine - 0.4123, 0.1843793357903371, 0.002978830767161932
+wrong_ranking - hac - wordnet - cosine - 0.4123, 0.6840265611447562, 0.41067931256924906
+missing_answer - gmeans - wordnet - cosine - 4.0, 0.6781542456564978, 0.7431214735143986
+wrong_score - gt - wordnet - cosine - 7.0, 0.3073891470276879, -0.03660057139457363
+wrong_ranking - gt - wordnet - cosine - 7.0, 0.8055399634207027, 0.314854640914094
+missing_answer - xmeans - wordnet - cosine - 14.0, 0.7031753370979926, 0.7154503739295668
+wrong_score - gmeans - wordnet - cosine - 4.0, 0.18746478590176463, 0.059778833575174765
+wrong_ranking - gmeans - wordnet - cosine - 4.0, 0.7503379500028331, 0.498356746541603
+missing_answer - hac - wordnet - cosine - 0.4123, 0.667581055248231, 0.6663232809661686
+wrong_score - xmeans - wordnet - cosine - 14.0, 0.1580376816668713, 0.033889639224011475
+wrong_ranking - xmeans - wordnet - cosine - 14.0, 0.7345824125962153, 0.44805892789104657
+wrong_score - hac - wordnet - cosine - 0.4123, 0.1947699112729849, 0.05601839180789399
+missing_answer - gmeans - wordnet - cosine - 4.0, 0.7179253496132013, 0.7321893731377656
+wrong_ranking - hac - wordnet - cosine - 0.4123, 0.6752543106722695, 0.3906674825468525
+missing_answer - xmeans - wordnet - cosine - 14.0, 0.7261323882265344, 0.7340296661758758
+wrong_score - gt - wordnet - cosine - 7.0, 0.3419572399982531, -0.024740220966284365
+wrong_ranking - gt - wordnet - cosine - 7.0, 0.8092793731479011, 0.2909748455035023
+missing_answer - hac - wordnet - cosine - 0.4123, 0.665355713766041, 0.6467585426754625
+wrong_score - gmeans - wordnet - cosine - 4.0, 0.1863864643851121, 0.06471855895949305
+wrong_ranking - gmeans - wordnet - cosine - 4.0, 0.7460203665502365, 0.47348703850752216
+wrong_score - xmeans - wordnet - cosine - 14.0, 0.15077153354982506, 0.008101249434225534
+wrong_ranking - xmeans - wordnet - cosine - 14.0, 0.7244048669430675, 0.45384021047102824
+wrong_score - hac - wordnet - cosine - 0.4123, 0.1792768682532064, 0.02177755891008372
+wrong_ranking - hac - wordnet - cosine - 0.4123, 0.6976879359330722, 0.3753065581811746
+missing_answer - gt - wordnet - cosine - 7.0, 0.8800941441212319, 0.7573689039116308
+wrong_score - gt - wordnet - cosine - 7.0, 0.29775905996452184, -0.04128648168651147
+missing_answer - gt - fasttext - cosine - 7.0, 0.7968359429074, -1
+wrong_score - gt - fasttext - cosine - 7.0, 0.26901786840793007, -1
+missing_answer - gt - fasttext - linear regression - 7.0, 0.8096297523740346, -1
+wrong_ranking - gt - wordnet - cosine - 7.0, 0.8143565341516472, 0.31032195797177775
+wrong_score - gt - fasttext - linear regression - 7.0, 0.2525975477491136, -1
+wrong_ranking - gt - fasttext - cosine - 7.0, 0.5504776593853591, -1
+wrong_ranking - gt - fasttext - linear regression - 7.0, 0.540611778161569, -1
+missing_answer - gmeans - wordnet - cosine - 4.0, 0.709179652489396, 0.7085328607193576
+wrong_score - gmeans - wordnet - cosine - 4.0, 0.1668093129549686, 0.05436859964898627
+missing_answer - gmeans - fasttext - cosine - 7.0, 0.7191528550225238, -1
+wrong_ranking - gmeans - wordnet - cosine - 4.0, 0.7445664650748747, 0.473255113230915
+wrong_score - gmeans - fasttext - cosine - 7.0, 0.1014347250072377, -1
+missing_answer - gmeans - fasttext - linear regression - 7.0, 0.7047839144772541, -1
+wrong_ranking - gmeans - fasttext - cosine - 7.0, 0.6363381519946086, -1
+wrong_score - gmeans - fasttext - linear regression - 7.0, 0.12257094929966889, -1
+wrong_ranking - gmeans - fasttext - linear regression - 7.0, 0.6288310143883563, -1
+missing_answer - xmeans - wordnet - cosine - 14.0, 0.7176636630313165, 0.7017059490403227
+missing_answer - xmeans - fasttext - cosine - 14.0, 0.7003510692542455, -1
+wrong_score - xmeans - wordnet - cosine - 14.0, 0.18271756786355992, 0.019043532121368174
+missing_answer - xmeans - fasttext - linear regression - 14.0, 0.7272404499250109, -1
+wrong_score - xmeans - fasttext - cosine - 14.0, 0.1173523940770181, -1
+wrong_ranking - xmeans - wordnet - cosine - 14.0, 0.7444986347005189, 0.47405797811342043
+wrong_score - xmeans - fasttext - linear regression - 14.0, 0.15693469073146188, -1
+wrong_ranking - xmeans - fasttext - cosine - 14.0, 0.5723121559325872, -1
+wrong_ranking - xmeans - fasttext - linear regression - 14.0, 0.543889078030332, -1
+missing_answer - hac - wordnet - cosine - 0.4123, 0.6569930811239336, 0.6635329402669798
+wrong_score - hac - wordnet - cosine - 0.4123, 0.16374872724092435, 0.013212574152148937
+missing_answer - hac - fasttext - cosine - 0.215, 0.6427224845815492, -1
+wrong_ranking - hac - wordnet - cosine - 0.4123, 0.6966331671931121, 0.417174187672154
+wrong_score - hac - fasttext - cosine - 0.215, 0.07367488245619067, -1
+missing_answer - hac - fasttext - linear regression - 0.298, 0.6362196128650893, -1
+wrong_ranking - hac - fasttext - cosine - 0.215, 0.6502020161020974, -1
+wrong_score - hac - fasttext - linear regression - 0.298, 0.09125134600057185, -1
+missing_answer - gt - wordnet - cosine - 7.0, 0.8760754306761032, 0.7604492464786391
+wrong_ranking - hac - fasttext - linear regression - 0.298, 0.663477623529764, -1
+missing_answer - gt - fasttext - cosine - 7.0, 0.7999592751420906, -1
+wrong_score - gt - wordnet - cosine - 7.0, 0.292866294527956, -0.07928852080563631
+wrong_score - gt - fasttext - cosine - 7.0, 0.2539461337530207, -1
+wrong_score - gt - fasttext - linear regression - 7.0, 0.26167625000225875, -1
+wrong_ranking - gt - wordnet - cosine - 7.0, 0.8197580774454859, 0.2840625672660662
+missing_answer - gmeans - wordnet - cosine - 4.0, 0.705003280683301, 0.7254443629234885
+wrong_ranking - gt - fasttext - cosine - 7.0, 0.5296584983601095, -1
+wrong_ranking - gt - fasttext - linear regression - 7.0, 0.5157882318714972, -1
+missing_answer - gmeans - fasttext - cosine - 7.0, 0.7278593643326984, -1
+missing_answer - gmeans - fasttext - linear regression - 7.0, 0.7105830148860389, -1
+wrong_score - gmeans - wordnet - cosine - 4.0, 0.1906858162313023, 0.021939078652072785
+wrong_score - gmeans - fasttext - cosine - 7.0, 0.09786498472844268, -1
+wrong_ranking - gmeans - wordnet - cosine - 4.0, 0.7332090538282706, 0.4993957162240328
+wrong_score - gmeans - fasttext - linear regression - 7.0, 0.1360491307914487, -1
+missing_answer - xmeans - wordnet - cosine - 14.0, 0.7077977014805774, 0.6727097795435929
+wrong_ranking - gmeans - fasttext - cosine - 7.0, 0.6363836230694647, -1
+missing_answer - xmeans - fasttext - cosine - 14.0, 0.7046797646591556, -1
+wrong_ranking - gmeans - fasttext - linear regression - 7.0, 0.6122632993857293, -1
+missing_answer - xmeans - fasttext - linear regression - 14.0, 0.7122262765601578, -1
+wrong_score - xmeans - wordnet - cosine - 14.0, 0.20003580239846558, 0.06367825996568108
+missing_answer - hac - wordnet - cosine - 0.4123, 0.660343618564113, 0.6397136927599447
+wrong_ranking - xmeans - wordnet - cosine - 14.0, 0.7258286050502524, 0.4376663754106224
+wrong_score - xmeans - fasttext - cosine - 14.0, 0.12093793950359605, -1
+missing_answer - hac - fasttext - cosine - 0.215, 0.637291573985744, -1
+missing_answer - hac - fasttext - linear regression - 0.298, 0.6377999660704801, -1
+wrong_ranking - xmeans - fasttext - cosine - 14.0, 0.5699207121443635, -1
+wrong_score - xmeans - fasttext - linear regression - 14.0, 0.1479667125675914, -1
+missing_answer - gt - fasttext - cosine - 7.0, 0.8171540974438976, -1
+wrong_ranking - xmeans - fasttext - linear regression - 14.0, 0.5540043632806206, -1
+wrong_score - hac - wordnet - cosine - 0.4123, 0.20971670232315742, 0.03082948879818693
+missing_answer - gt - fasttext - linear regression - 7.0, 0.8040965092555076, -1
+wrong_ranking - hac - wordnet - cosine - 0.4123, 0.6904808053887718, 0.4115474163346512
+missing_answer - gmeans - wordnet - cosine - 4.0, 0.6942520873779898, 0.7153666969240382
+wrong_score - hac - fasttext - cosine - 0.215, 0.09612029434048931, -1
+wrong_ranking - hac - fasttext - cosine - 0.215, 0.6629479862816074, -1
+wrong_score - hac - fasttext - linear regression - 0.298, 0.0941803139364697, -1
+missing_answer - xmeans - fasttext - linear regression - 14.0, 0.712704201787023, -1
+wrong_ranking - hac - fasttext - linear regression - 0.298, 0.6644015717524423, -1
+missing_answer - hac - wordnet - cosine - 0.4123, 0.6871752054909217, 0.6631066604725009
+wrong_score - gt - wordnet - cosine - 7.0, 0.3066696348609955, 0.018595603701482145
+missing_answer - hac - fasttext - linear regression - 0.298, 0.6368082059008313, -1
+wrong_ranking - gt - wordnet - cosine - 7.0, 0.808690276890435, 0.318368588910518
+wrong_score - gt - fasttext - cosine - 7.0, 0.27209751936082227, -1
+wrong_ranking - gt - fasttext - cosine - 7.0, 0.5197413958829326, -1
+wrong_score - gt - fasttext - linear regression - 7.0, 0.28563226094732547, -1
+wrong_ranking - gt - fasttext - linear regression - 7.0, 0.5419286816055957, -1
+wrong_score - gmeans - wordnet - cosine - 4.0, 0.18329867597292337, 0.017421601363109537
+wrong_ranking - gmeans - wordnet - cosine - 4.0, 0.7430099793513747, 0.49785586837660795
+wrong_score - gmeans - fasttext - cosine - 7.0, 0.048626959718516674, -1
+wrong_ranking - gmeans - fasttext - cosine - 7.0, 0.6414988424867418, -1
+wrong_score - gmeans - fasttext - linear regression - 7.0, 0.13185843629049898, -1
+wrong_ranking - gmeans - fasttext - linear regression - 7.0, 0.6080757080653169, -1
+wrong_score - xmeans - wordnet - cosine - 14.0, 0.17583209799120708, -0.0028996442741332767
+wrong_score - xmeans - fasttext - cosine - 14.0, 0.11322650896054419, -1
+wrong_ranking - xmeans - wordnet - cosine - 14.0, 0.7321810356322206, 0.4524270261921551
+wrong_score - xmeans - fasttext - linear regression - 14.0, 0.11993015218677539, -1
+wrong_ranking - xmeans - fasttext - cosine - 14.0, 0.5746415421494674, -1
+wrong_ranking - xmeans - fasttext - linear regression - 14.0, 0.5363082586965296, -1
+wrong_score - hac - wordnet - cosine - 0.4123, 0.18002717140007368, 0.05205677038078518
+wrong_ranking - hac - wordnet - cosine - 0.4123, 0.6892206448448812, 0.42662750357752505
+wrong_score - hac - fasttext - cosine - 0.215, 0.09406890532679524, -1
+wrong_ranking - hac - fasttext - cosine - 0.215, 0.662746742209879, -1
+wrong_score - hac - fasttext - linear regression - 0.298, 0.08437648320263352, -1
+wrong_ranking - hac - fasttext - linear regression - 0.298, 0.6710205457018574, -1

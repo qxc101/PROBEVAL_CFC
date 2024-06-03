@@ -1,0 +1,23 @@
+{
+    "starting_component":{
+        "values": [0.4732549185624057]
+    },
+    "similarity_function": {
+        "values": ["wordnet"]
+        },
+    "clustering_algo": {
+        "values": ["hac"]
+        },
+    "num_sampling_steps": {
+        "values": [50]
+        },
+    "sample_method":{
+        "values": ["diverse"]
+    },
+    "hac_linkage_function":{
+        "values": ["average"]
+    },
+    "assignment":{
+        "values": ["cosine"]
+    }
+}

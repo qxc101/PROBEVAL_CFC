@@ -1,0 +1,24 @@
+{
+    "starting_component":{
+        "min": 0.2,
+        "max": 0.5
+    },
+    "similarity_function": {
+        "values": ["fasttext"]
+        },
+    "clustering_algo": {
+        "values": ["hac"]
+        },
+    "num_sampling_steps": {
+        "values": [50]
+        },
+    "sample_method":{
+        "values": ["centered"]
+    },
+    "hac_linkage_function":{
+        "values": ["single", "complete", "average", "weighted", "centroid", "median", "ward"]
+    },
+    "assignment":{
+        "values": ["linear regression"]
+    }
+}

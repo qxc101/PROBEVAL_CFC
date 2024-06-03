@@ -1,0 +1,24 @@
+{
+    "starting_component":{
+        "min": 7,
+        "max": 14
+    },
+    "similarity_function": {
+        "values": ["wordnet"]
+        },
+    "clustering_algo": {
+        "values": ["xmeans"]
+        },
+    "num_sampling_steps": {
+        "values": [50]
+        },
+    "sample_method":{
+        "values": ["vanila"]
+    },
+    "hac_linkage_function":{
+        "values": ["single"]
+    },
+    "assignment":{
+        "values": ["cosine"]
+    }
+}
